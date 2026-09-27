@@ -1,0 +1,16 @@
+{
+  "name": "borozdov-deck",
+  "private": true,
+  "description": "A cosmic command deck: a deep void, glass panels, terminal green for what you act on, sky-blue links and one ultraviolet rim.",
+  "license": "MIT",
+  "scripts": {
+    "lint": "stylelint theme.css",
+    "build": "node scripts/build.mjs",
+    "screenshots": "python3 scripts/screenshots.py"
+  },
+  "devDependencies": {
+    "lucide-static": "^1.47.0",
+    "stylelint": "^17.0.0",
+    "stylelint-config-obsidianmd": "^0.1.0"
+  }
+}
