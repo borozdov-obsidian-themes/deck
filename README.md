@@ -38,10 +38,14 @@ what you act on, sky-blue links and one ultraviolet rim.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Deck**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Console**. Install Borozdov Console under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Deck** under Style Settings → Borozdov Console → Variant. The variant brings this
+theme's palette, type and corners; its own layout, and its embedded font if it has one,
+come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/deck/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Deck/`, then choose Borozdov Deck under
 Settings → Appearance → Themes.
@@ -55,5 +59,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: тёмный «Орбита» — космическая
 командная палуба, и светлый «Рассветный» — та же палуба при дневном свете. Глубокая тьма,
 стеклянные панели, терминальный зелёный для того, что вы делаете, небесно-голубые ссылки и
-одна ультрафиолетовая кромка. Шрифты не встроены. Устанавливается из каталога: Настройки →
-Оформление → Темы → Настроить → Borozdov Deck → Установить и применить.
+одна ультрафиолетовая кромка. Шрифты не встроены. В каталоге тема живёт вариантом Borozdov Console: установите Borozdov Console и плагин Style Settings, затем выберите Deck в Style Settings → Borozdov Console → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
